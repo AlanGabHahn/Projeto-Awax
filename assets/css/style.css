@@ -26,7 +26,7 @@ header{
 .logo-img{
     width: 80px;
     height: 80px;
-    background-color: #b28756;;
+    background-color: #b28756;
     border-radius: 40px;
 }
 .menu{
@@ -380,5 +380,8 @@ padding-bottom: 50px;
     height: 25px;
     background-color: #ccc;
     border-radius: 13px;
-    margin-right: 20px;
+    margin-right: 10px;
+}
+.section-team-social a:hover{
+    background-color: #b28756
 }
